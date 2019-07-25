@@ -1,3 +1,10 @@
+
+body {
+    background: 'black';
+    color: #ffe;
+}
+
 span {
     display:block;
 }
+
